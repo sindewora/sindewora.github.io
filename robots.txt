@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sindewora.github.io/sitemap.html.gz
+Sitemap: https://sindewora.github.io/app/sitemap.html.gz
+Sitemap: https://sindewora.github.io/assets/sitemap.html.gz
+Sitemap: https://sindewora.github.io/css/sitemap.html.gz
+Sitemap: https://sindewora.github.io/includes/sitemap.html.gz
+Sitemap: https://sindewora.github.io/item/sitemap.html.gz
+Sitemap: https://sindewora.github.io/src/sitemap.html.gz
